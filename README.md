@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/get-out-crowdsouring)
+
 这是一个致力于 crowdsource 普通人出国留学/移民攻略的项目。
 
 ## Motivation
@@ -34,6 +36,6 @@
 
 ## Let's do it together
 
-我个人的经历局限于加国研究型硕士的申请这方面，所以要完成一个涵盖很多其它国家的攻略，需要更多人的参入。欢迎已经成功出国，散布在世界各地的朋友分享自己的经验。 另一方面，信息的正确和实效性也需要很多人帮忙效验。
+我个人的经历局限于加国研究型硕士的申请这方面，所以要完成一个涵盖很多其它国家的攻略，需要更多人的参入。欢迎已经成功出国，散布在世界各地的朋友分享自己的经验。另一方面，信息的正确和实效性也需要很多人帮忙效验。
 
-有想法和建议？直接开 issue 或者直接 email 我 gnijuohz@gmail.com.
+有想法和建议？直接开 issue 或者去[gitter](https://gitter.im/get-out-crowdsouring/Lobby).
