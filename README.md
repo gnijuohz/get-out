@@ -2,6 +2,11 @@
 
 这是一个致力于 crowdsource 普通人出国留学/移民攻略的项目。
 
+## Country
+
+- [爱尔兰](Countries/Ireland/)
+- [加拿大](Countries/Canada/)
+
 ## Motivation
 
 最近在 v2 社区上发现一方面有很多人有出国的想法，另一方面已经有很多人在国外学习或工作。一边的人需要帮助，另外的一部分人可以提供有用的信息。
