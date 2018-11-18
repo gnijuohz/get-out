@@ -44,3 +44,9 @@
 笔者的经历局限于加国研究型硕士的申请这方面，所以要完成一个涵盖很多其它国家的攻略，需要更多人的参入。欢迎已经成功出国，散布在世界各地的朋友分享自己的经验。另一方面，信息的正确和实效性也需要很多人帮忙效验。
 
 有想法和建议？直接开 issue 或者去[gitter](https://gitter.im/get-out-crowdsouring/Lobby).
+
+## Contributors
+
+- [Jing Zhou](https://github.com/gnijuohz), now in Canada.
+- [luo4neck](https://github.com/luo4neck), now in Ireland.
+- [kingcos](https://github.com/kingcos)
